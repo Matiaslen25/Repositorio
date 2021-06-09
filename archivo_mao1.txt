@@ -2,5 +2,9 @@ Este es el primer archivo.
 Este archivo ha sido modificado.
 
 Modifique este archivo
+<<<<<<< HEAD
 
 Segundo cambio hecho por Matias 
+=======
+Ya ha sido modificado por segunda vez. 
+>>>>>>> cd7f52f90ea982b39ed7a734db0d8d5431779165
